@@ -15,4 +15,3 @@ More coming: VaR/Expected Shortfall backtesting, volatility forecasting (GARCH v
 
 ### Tools: Python, R, Git, MATLAB
 
-### LinkedIn · lucashky@gmail.com
