@@ -1,16 +1,17 @@
-## Hi there 👋
+#Lucas Haw-kwan-yuen
 
-<!--
-**lucashky/lucashky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics (Data Science and Machine Learning) at Imperial College London, and engineering student at CentraleSupélec. Interested in quantitative finance, risk, and statistical modelling.
 
-Here are some ideas to get you started:
+##Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Monte Carlo methods, stochastic volatility and risk models
+Machine learning for medical imaging (retinal disease detection)
+
+##Featured projects
+
+mc-option-pricing: Monte Carlo pricing with variance reduction, Asian options and Heston
+More coming: VaR/Expected Shortfall backtesting, volatility forecasting (GARCH vs ML)
+
+Tools: Python, R, Git, MATLAB
+
+LinkedIn · lucashky@gmail.com
