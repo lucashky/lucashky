@@ -5,6 +5,7 @@ MSc Statistics (Data Science and Machine Learning) at Imperial College London, a
 ## Currently
 
 Monte Carlo methods, stochastic volatility and risk models
+
 Machine learning for medical imaging (retinal disease detection)
 
 ## Featured projects
@@ -12,6 +13,6 @@ Machine learning for medical imaging (retinal disease detection)
 mc-option-pricing: Monte Carlo pricing with variance reduction, Asian options and Heston
 More coming: VaR/Expected Shortfall backtesting, volatility forecasting (GARCH vs ML)
 
-Tools: Python, R, Git, MATLAB
+### Tools: Python, R, Git, MATLAB
 
-LinkedIn · lucashky@gmail.com
+### LinkedIn · lucashky@gmail.com
